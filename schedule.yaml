@@ -420,13 +420,27 @@ Is it necessary to understand the “qualitative cultural factors” such as get
 
       readings :
       - bib : |
-          Brian Fitzgerald, Jay P. Kesan, Barbara Russo, Maha Shaikh, and Giancarlo Succi (2011).
-          “Hibernia Hospital.” Chapter 3 in *Adopting Open Source Software: A Practical Guide*. Cambridge, MA: The MIT Press.
+          Andreas Neus and Philipp Scherf (2005). 
+          “Opening minds: cultural change with the introduction of open-source collaboration methods.” IBM Systems Journal 44(2).          
         availability :
           - type : electronic
-            url : http://site.ebrary.com.myaccess.library.utoronto.ca/lib/utoronto/docDetail.action?docID=10509225
-            bitly : http://bit.ly/16zCzBd
-      
+            url : http://www.researchgate.net/publication/224101702_Opening_minds_Cultural_change_with_the_introduction_of_open-source_collaboration_methods
+            bitly : http://bit.ly/172hLBP
+      - bib : |
+          Gang Peng (2009). 
+          “Critical success factors for Open Source innovation: The case of Open Source software development.” Issues in Information Systems.          
+        availability :
+          - type : electronic
+            url : http://iacis.org/iis/2009/P2009_1194.pdf
+            bitly : http://bit.ly/14RRVkC
+      - bib : |
+          Katherine Johnson (2008).
+          “Critical success factors for Open Source innovation: The case of Open Source software development.” Issues in Information Systems.          
+        availability :
+          - type : electronic
+            url : http://iacis.org/iis/2009/P2009_1194.pdf
+            bitly : http://bit.ly/14RRVkC
+            
 
 - week : 11
 
