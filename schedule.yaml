@@ -118,17 +118,17 @@
 
     - date : Wednesday, May 14, 2014
       title : | 
-        Intellectual Property: Theory and History
+        Intellectual Property: Theory and History (Lecture)
       summary : |
         To properly contextualize free / open source software, we must first understand
         why software is protected as intellectual property in the first place.
-        In this class we look at the history and theory behind intellectual propertly generally.
+        In this class we look at the history and theory behind intellectual property generally.
         What are “public goods”?
         (Specifically, what does it mean for something to be “nonrival” and “non-excludable”?)
         In what sense are ideas and software “public goods”?
         Why might it make sense to limit the use of information goods?
         What are some of the other ways of supporting production of such goods?
-        What would be some of the alternatives to intelletual property?
+        What would be some of the alternatives to intellectual  property?
       readings :
         - bib : |
             Greg Mankiw,
@@ -150,8 +150,10 @@
             - type :  reserve
               url : http://go.utlib.ca/cat/5303970
 
-    - date : Wednesday, July 17
-      title : Software as Intellectual Property
+- week : 3
+
+    - date : Wednesday, May 21, 2014
+      title : Software as Intellectual Property (Seminar)
       summary : |
         How did *software* get to be protected by intellectual property
         laws? And where did the idea of selling software as a
@@ -178,8 +180,9 @@
               url : http://papers.ssrn.com.myaccess.library.utoronto.ca/sol3/papers.cfm?abstract_id=328561
               bitly : http://bit.ly/12GBdWC
 
-- week : 3
-  classes :
+
+- week : 4
+
     - date : Monday, July 22
       title : |
         The GNU Project
