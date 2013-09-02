@@ -1,18 +1,18 @@
 # General Expectations and Procedures
 
-The students are expected to come to class prepared
-and submit assignments strictly on time.
+Students are expected to come to class prepared
+and submit assignments on time.
 
 ### Late Assignments and Extensions
 
-You are expected to complete assignments on time. Assignment not
-submitted by the exact time when their are due will be considered
+Students are expected to complete assignments on time. Assignments not
+submitted by the exact time when they are due will be considered
 late. (E.g., “17:00” means “17:00”, not “17:05.”)
 
 #### Late Policy for Memos
 
 <span class="important">
-Late memos will recieve half of the credit if submitted before the beginning of class.
+Late memos will receive half of the credit if submitted before the beginning of class.
 Memos not submitted by the time the class begins will not be accepted at all.</span>
 Students who have missed a memo should focus their efforts on memos for the next class.
 However, each student will be entitled to skipping <span class="important">one</span> memo.
@@ -36,13 +36,16 @@ used solely for the purpose of detecting plagiarism. The terms that
 apply to the University’s use of the Turnitin.com service are
 described on the Turnitin.com web site.</span>
 
-Students who do not wish to use TurnItIn for submitting their work
-should approach the instructor to discuss alternative ways to
-establish the originality of the paper. This discussion needs to
-happen before the student begins working on the paper.
-
 For information on how to use TurnItIn, please see this handout:
 [turnitin_instructions.pdf](handouts/turnitin_instructions.pdf).
+
+Students who prefer to NOT use TurnItIn must do the following:
+
+1) Keep all working drafts and notes throughout the writing process.
+
+2) Submit all working drafts and notes together with the term paper, via Blackboard.
+
+Your working drafts and notes will not be graded, but will be used them to verify that the term paper constitutes original work.
 
 ### Students with Special Needs or Health Considerations
 
