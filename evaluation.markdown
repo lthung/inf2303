@@ -7,7 +7,7 @@ For some classes, the instructor will lecture and for other classes the instruct
 
 Grades will be based on the following components:
 
-* Contribution to class discussion, both in-class as well as online through Blackboard’s discussion forums (15%),
+*     Contribution to class discussion, both in-class as well as online through Blackboard’s discussion forums (15%),
 *	Preparation of “memos” for the class (15%),
 *	The term paper (50%),
        * 1) Collaboratively use and critique an open source software such as BitBucket or GitHub (15%)
@@ -61,14 +61,11 @@ Each memo should consist of four sections.
 * Three questions for discussion in the class (provide a brief
   explanation of your questions if necessary).
   
-The memos are due by email, <span class="important">by 8 am of the day
+The memos are due via Blackboard (i.e. please upload under relevant class and group sections),<span class="important"> by 8 am of the day
   of each class</span>. (Please see below on the late policy for
-  memos.)
-  Please <span class="important">email your memo as a PDF attachment to all members of your team **and** the instructor.</span>
-  Please <span class="important">put “INF2303 memo for *date* class” for subject.</span>
-  (Subsitute the correct date of the class, e.g., “INF2303 memo for July 10 class.”)
-Students responsible for chairing each class will be tasked with
-  reading and summarizing submitted memos in writing.
+  memos).
+  Students responsible for chairing each class will be tasked with
+  reading and summarizing submitted memos.
 
 ### Term Paper and Presentation - 50%
 
