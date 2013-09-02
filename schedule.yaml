@@ -1,9 +1,6 @@
+- week : 0 (i.e. Pre-course assignment)      
 
-- week : 1        
-  classes :
-  
-    - date : Monday, July 8
-      title : An Introduction
+    - title : An Introduction
       summary : |
         What is free software? What is open source software?
         (What is the difference?)
@@ -52,10 +49,14 @@
               url : http://go.utlib.ca/cat/4828696
             - type : electronic
               url : http://bit.ly/ceruzzi
-            
+              
+      Note: Students are asked to complete the above readings prior to the first class and to post their thoughts / comments on the assigned discussion forum space in Blackboard.
+      
 
-    - date : Wednesday, July 10
-      title : Hackers
+- week : 1        
+
+     - date : Wednesday, May 7, 2014
+      title : Hackers (Lecture)
       summary: |
         Free software is often associated with "hackers". Who <i>are</i> hackers?
       readings :
@@ -114,14 +115,8 @@
               bitly: http://bit.ly/11wb98X
 
 - week : 2
-  title : Software and Intellectual Property
-  summary : |
-    This week will focus on the theory behind the intellectual
-    property regime that emerged in the 1980s, the history of that
-    regime, and how it got extended to software.
 
-  classes :
-    - date : Monday, July 15
+    - date : Wednesday, May 14, 2014
       title : | 
         Intellectual Property: Theory and History
       summary : |
