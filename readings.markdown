@@ -67,8 +67,8 @@ Many readings come from the following books, which are shown in the
   *Two Bits: The Cultural Significance of Free Software.*,
   Duke University Press.  
   &nbsp;&nbsp;&nbsp;&nbsp;<span class="inforum">Inforum</span>: yes  
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="reserve">Reserve</span> →  <http://go.utlib.ca/cat/6466551>  
-  &nbsp;&nbsp;&nbsp;&nbsp;<span class="electronic">Online</span> → <http://twobits.net/>
+  &nbsp;&nbsp;&nbsp;&nbsp;<span class="reserve">Reserve</span>: <http://go.utlib.ca/cat/6466551>  
+  &nbsp;&nbsp;&nbsp;&nbsp;<span class="electronic">Online</span>: <http://twobits.net/>
 
 > **“Open Sources”**:
   Chris DiBona, ed. (1999).
