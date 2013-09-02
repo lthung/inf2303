@@ -10,8 +10,8 @@ Grades will be based on the following components:
 * Contribution to class discussion, both in-class as well as online through Blackboard’s discussion forums (15%),
 *	Preparation of “memos” for the class (15%),
 *	The term paper (50%),
-*     	1) Collaboratively use and critique an open source software such as BitBucket or GitHub (15%)
-*      	2) Term paper including a proposal and a presentation (35%)
+       * 1) Collaboratively use and critique an open source software such as BitBucket or GitHub (15%)
+       * 2) Term paper including a proposal and a presentation (35%)
 *	Reviews of other students’ paper proposals (7%),
 *	A course “patch” (7%),
 *	“Self-reflection” individual paper (6%)
