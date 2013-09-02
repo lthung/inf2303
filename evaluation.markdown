@@ -1,13 +1,7 @@
 # Course Structure
 
-This course will be taught as a seminar.
-While the instructor will at times present material to complement the
-  readings, much of the time will be spent discussing and analyzing
-  the readings.
-Students are expected to take responsibility for their learning of the
-  material through active engagement with the assigned readings,
-  through participation in course discussion, and through their
-  individual work on a research paper.
+This course will be taught as a combination of seminar and lecture formats. 
+For some classes, the instructor will lecture and for other classes the instructor will at times present material to complement the readings, however, much of the time will be spent discussing and analyzing the readings. Students are expected to take responsibility for their learning of the material through active engagement with the assigned readings, through participation in course discussion, and through their work on a research paper.
 
 # Deliverables and Evaluation
 
