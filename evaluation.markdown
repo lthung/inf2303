@@ -152,7 +152,7 @@ Final presentations will not receive individual grades, but will be graded toget
 
 #### Final Term Paper
 
-The final deliverable is a paper of 5,000–7,000 words, due at the end
+The final deliverable is a paper of 4,000 to 5,000 words, due at the end
   of the semester.
 The papers will be shared with other students and will be evaluated by
   the instructor according to the following criteria:
@@ -174,9 +174,9 @@ The papers will be shared with other students and will be evaluated by
 The final grade for the paper will also incorporate an assessment of
   your original proposal and the presentation.
 
-### Paper Proposal Reviews — 10%
+### Paper Proposal Reviews — 7%
 
-Each student will receive three proposals from other teams and will
+Each student will receive two (2) proposals from other teams and will
   then be asked to write a review of each proposal.
 The reviews should be constructive in their focus and aim to help the
   author of each proposal improve their paper.
@@ -185,7 +185,7 @@ Each review should be 1–2 pages long and can include a bibliography if
 (If you include a bibliography, do not count it towards the page
   limit.)
 
-### A Course “Patch” — 10%
+### A Course “Patch” — 7%
 
 Each student will be asked to submit a “patch” (modification) to the
   course.
@@ -193,7 +193,9 @@ The “source files” for the course syllabus are available on Github at
   <https://github.com/yuri/inf2303>.
 The patches will be submitted via Github, which will include the
   actual modification and a brief summary.
-Additionally, a one-page justification should be submitted via email.
+Additionally, a one-page justification should be submitted via Blackboard 
+(i.e. please upload under relevant section).
 
+### “Self-reflection” individual paper — 6%
 
-
+Each student will be asked to submit a short (i.e. 750 words to 1,000 words) “self-reflection” paper.  The purpose of this assignment is to allow students to reflect on any lessons learned from the course (i.e. what did you find useful / insightful / interesting, did your opinions regarding specific topics changed at the conclusion of the course?, other information you deemed relevant, etc).
