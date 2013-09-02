@@ -11,10 +11,10 @@ The course will rely on readings that fall roughly into two categories.
   When approaching such texts we will read them in the same way that
     primary texts are read in humanities, asking questions about the
     relationship between each text and the historical and cultural
-    millieu in which it was written.
+    milieu in which it was written.
   Students should not be mislead by the seeming ease of such texts,
     and should try to dig deeper into them.
-* **Academic analyses.**
+* **Academic analyzes.**
   Those are academic writings either looking at free / open source
     software directly or exploring closely related topics such as
     copyright and history of software.
@@ -30,7 +30,7 @@ The course will rely on readings that fall roughly into two categories.
  <dd>
   The reading is a provided in the form of a photocopy, available at
     the Inforum.
-  <span class="important">(This should be available after June 18.)</span>
+  <span class="important">(This should be available after April 18.)</span>
   Those are primarily readings that allow royalty-free redistribution.
  </dd>
  <dt><span class="reserve">Reserve</span>:</dt>
@@ -47,6 +47,8 @@ The course will rely on readings that fall roughly into two categories.
   (either freely or through the library).
  </dd>
 </dl>
+
+Note: For the above readings, student volunteers are encouraged to share scanned copies of the readings for each class and post them on the appropriate forum in Blackboard for each class.  The purpose of this is to minimize the unnecessary duplication of efforts (i.e. multiple scanning of the same materials).  
 
 Many readings come from the following books, which are shown in the
   schedule with abbreviations:
