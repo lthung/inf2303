@@ -19,12 +19,12 @@ Grades will be based on the following components:
 
 ### Contribution to Class Discussion — 15%
 
-As the course will be taught in the form of a seminar, students will
+As the majority of the course will be taught in the form of a seminar, students will
   be graded for their contribution to the class discussion.
 <span class="important">Please be advised that contribution does not
   mean attendance.</span>
 (Of course, you cannot contribute without being present.)
-Students who attend the class but remain silent will earn no
+Students who attend the class but remain silent will not earn a
   credit.
 Nor, however, does it mean simply speaking a lot.
 Rather, students are expected to come to class prepared, actively
@@ -34,10 +34,8 @@ Rather, students are expected to come to class prepared, actively
 Class discussion will follow a structure that will be described in a
   handout.
 Each student will be asked to serve as one of the “chairs” for
-  one week’s discussion and as a “panelist” on several other ones.
-Students who have difficulty speaking in public should see the
-  instructor early in the semester, so that we could discuss possible
-  remedies.
+  one week’s discussion.
+Students who have difficulty speaking in public are encouraged to participate by submitting posts or comments using Blackboard’s discussion forums.  Posts will be evaluated based on quality and not quantity.  For example: Did the student take the time to write meaningful comments?  What value does this post add to the previous and/or future in-class discussions?
 
 ### Memos — 15%
 
