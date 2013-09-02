@@ -67,7 +67,17 @@ The memos are due via Blackboard (i.e. please upload under relevant class and gr
   Students responsible for chairing each class will be tasked with
   reading and summarizing submitted memos.
 
-### Term Paper and Presentation - 50%
+### Group Project - 50%
+
+Instructors will randomly assign students into a group containing a total of two (2) or three (3) group members.  
+Note: To ensure fair distribution of work (i.e. equal contribution), each group member will be asked to rate / comment on the other group members’ performance and contributions.   In cases where the workload was not fairly distributed (or in cases where some individuals refused to carry his / her fair share of the workload), the person doing less / more work may receive lower / higher grades.
+
+1) Hands-on work with one (1) open source software (15%)
+Collaboratively use and critique an open source software (OSS) such as BitBucket or GitHub (15%).  
+
+Students will be asked to submit a one (1) page double-spaced summary (i.e. challenges, interesting points, etc) of their chosen OSS.
+
+2) Term Paper (35%)
 
 A major component of the course is a term paper exploring a specific
   topic related to the content of the course.
@@ -75,16 +85,12 @@ A major component of the course is a term paper exploring a specific
 There are three deliverables related to this term paper, including:
 
 * a paper proposal,
-* a presentation (on August 19),
-* the final paper.
+* a presentation,
+* a final paper.
 
 The proposal, the presentation, and the final paper will be graded
   <span class="important">together</span> and will be jointly worth
-  50% of your grade.
-
-It is recommended that students work on their papers in <span
-  class="important">teams of two</span>.
-However, they can opt to work individually or in groups of three.
+  35% of your grade.
 
 Students can pick paper topics that best align with their professional
   interests, as long as there is a clear relationship to the topics
@@ -92,7 +98,7 @@ Students can pick paper topics that best align with their professional
   appropriate depth.
 Here are some examples of appropriate topics:
 
-* A paper analysing available free / open source software for
+* A paper analyzing available free / open source software for
   libraries and making an argument for or against use of such software
   over proprietary solutions.
 * A paper exploring the history of a particular F/OSS product to
@@ -107,7 +113,7 @@ Here are some examples of appropriate topics:
 <i>The list above is meant to exemplify appropriate topics and is not
   exhaustive.</i>
 
-Due to the short duration of the course, students should start working
+Students should start working
   on their papers <span class="important">very early</span>, ideally
   not later than the second week of the course.
 
