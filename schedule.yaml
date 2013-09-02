@@ -375,12 +375,8 @@
 
 - week : 9
 
-  classes :  
-    - date : Monday, August 12
-      no_class : Yuri at ASA in New York
-  
-    - date : Wednesday, August 14
-      title : Adoption Case Studies
+    - date : Wednesday, July 2, 2014
+      title : Adoption Case Studies (Seminar)
       summary : |        
         In this class we'll be looking at a few specific cases of FOSS adoption.
       readings :
@@ -393,7 +389,7 @@
             bitly : http://bit.ly/16zCzBd
       - bib : |
           Mat Wall (2011). “Why I chose MongoDB for guardian.co.uk.” (VIDEO)
-          **Watch from the beginning until you get lost, then skipt to 17 minutes and watch until you get lost again.**
+          **Watch from the beginning until you get lost, then skip to 17 minutes and watch until you get lost again.**
         availability :
           - type : electronic
             url: http://www.infoq.com/presentations/Why-I-Chose-MongoDB-for-Guardian
@@ -413,7 +409,26 @@
             url : http://www.wired.com/wiredenterprise/2013/03/mongodb-enterprise/
             bitly : http://bit.ly/14yukYj
 
-- week : 7
+- week : 10
+
+    - date : Wednesday, July 9, 2014
+      title : i) Culture / Organizational Culture (For the first two (2) hours of class) (Lecture)
+      summary : |        
+        What relationships exist between understanding the unique “organizational culture” / “culture” and the ultimate outcome (i.e. successes / failures) of F/OSS implementations?
+
+Is it necessary to understand the “qualitative cultural factors” such as getting “buy-in” from key stakeholders to ensure successful implementation?  
+
+      readings :
+      - bib : |
+          Brian Fitzgerald, Jay P. Kesan, Barbara Russo, Maha Shaikh, and Giancarlo Succi (2011).
+          “Hibernia Hospital.” Chapter 3 in *Adopting Open Source Software: A Practical Guide*. Cambridge, MA: The MIT Press.
+        availability :
+          - type : electronic
+            url : http://site.ebrary.com.myaccess.library.utoronto.ca/lib/utoronto/docDetail.action?docID=10509225
+            bitly : http://bit.ly/16zCzBd
+      
+
+- week : 11
 
   classes :
     - date : Monday, August 19
