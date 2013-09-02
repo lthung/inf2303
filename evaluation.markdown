@@ -70,14 +70,15 @@ The memos are due via Blackboard (i.e. please upload under relevant class and gr
 ### Group Project - 50%
 
 Instructors will randomly assign students into a group containing a total of two (2) or three (3) group members.  
+
 Note: To ensure fair distribution of work (i.e. equal contribution), each group member will be asked to rate / comment on the other group members’ performance and contributions.   In cases where the workload was not fairly distributed (or in cases where some individuals refused to carry his / her fair share of the workload), the person doing less / more work may receive lower / higher grades.
 
-1) Hands-on work with one (1) open source software (15%)
+#### 1) Hands-on work with one (1) open source software (15%)
 Collaboratively use and critique an open source software (OSS) such as BitBucket or GitHub (15%).  
 
 Students will be asked to submit a one (1) page double-spaced summary (i.e. challenges, interesting points, etc) of their chosen OSS.
 
-2) Term Paper (35%)
+#### 2) Term Paper (35%)
 
 A major component of the course is a term paper exploring a specific
   topic related to the content of the course.
