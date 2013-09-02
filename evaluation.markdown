@@ -144,7 +144,11 @@ Paper proposals will not receive individual grades, but will be graded
 
 #### Final Presentation
 
-Each team will make a short (5-10 minutes) presentation about their research on the last day of class.
+Each team will make a 15-minute presentation about their research on the last day
+and the last hour of the second-last day of classes.
+
+Final presentations will not receive individual grades, but will be graded together with the final paper.
+
 
 #### Final Term Paper
 
