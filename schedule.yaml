@@ -435,12 +435,26 @@ Is it necessary to understand the “qualitative cultural factors” such as get
             bitly : http://bit.ly/14RRVkC
       - bib : |
           Katherine Johnson (2008).
-          “Critical success factors for Open Source innovation: The case of Open Source software development.” Issues in Information Systems.          
+          “Reducing Resistance: to the Adoption of Open Source Systems.” Dalhousie University.          
         availability :
           - type : electronic
-            url : http://iacis.org/iis/2009/P2009_1194.pdf
-            bitly : http://bit.ly/14RRVkC
-            
+            url : http://ojs.library.dal.ca/djim/article/view/2008vol4Johnson/68
+            bitly : http://bit.ly/1e6550M
+      - bib : |
+          Shahron Williams van Rooij (2011). 
+          “Higher education: sub-cultures and open source adoption.” Elsevier Ltd.         
+        availability :
+          - type : electronic
+            url : http://www.researchgate.net/publication/220510538_Higher_Education_and_FOSS_for_e-Learning_The_Role_of_Organizational_Sub-cultures_in_Enterprise-wide_Adoption/file/e0b4951c08f6d31e41.pdf
+            bitly : http://bit.ly/17h67zM
+      - bib : |
+          Yan Li, Chuan-Hoo Tan, Heng Xu, and Hock-Hai Teo (2011). 
+          “Open Source Software Adoption: Motivations of Adopters and Amotivations of Non-adopters.” Database for Advances in Information Systems
+        availability :
+          - type : electronic
+            url : http://faculty.ist.psu.edu/xu/papers/misdb.pdf
+            bitly : http://bit.ly/18wBGXu
+
 
 - week : 11
 
