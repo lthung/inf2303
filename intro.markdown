@@ -11,7 +11,7 @@
 <br/><br/>
 
 <h1>
- Summer 2013
+ Summer 2014
 </h1>
 
 <h1 class="course_title">
@@ -33,7 +33,7 @@ The course will explore the production of free / open source software
 In the recent years such software has grown in prominence.
 Today it includes both popular end-user software such as Mozilla
   Firefox and Google Chrome, as well as back-end software that today
-  dominates in many domains of IT infrastructure (e.g., the Apache
+  dominate in many domains of IT infrastructure (e.g. the Apache
   web-server and the GNU/Linux operating system).
 Availability of such software presents both opportunities and
   challenges to today’s IT professionals.
@@ -62,10 +62,10 @@ We will also ask questions about the technical infrastructure used by
 
 # Student Learning Objectives
 
-The students will develop an understanding of free / open source
+Students will develop an understanding of free / open source
   software ecosystem, including its history and current practices.
 They will also learn to draw on their understanding of F/OSS to
-  analyse the opportunities and challenges that such software presents
+  analyze the opportunities and challenges that such software presents
   in specific contexts faced by information professionals.
 Finally, they will learn how to extend their observations about free /
   open source software to other information products.
@@ -82,15 +82,17 @@ Students will develop knowledge and values that will help them
   exercise leadership when it comes to making software choices that
   broader access to information services for all. (Outcome 2.)
 
-The students’ work on the term paper will help them develop their
+Students’ work on the term paper will help them develop their
   research abilities and to apply course material to a specific domain
   of information studies. (Outcome 3.)
 
-The students will gain knowledge of a range of social science theories
+Students will gain knowledge of a range of social science theories
   relevant to understanding production of information goods. (Outcome
   4.)
 
 Student learning outcomes for the MI program:
 <http://www.ischool.utoronto.ca/studies/learning-outcomes/>
+
+In addition to the above learning outcomes, students will develop and refine their presentation skills (i.e. differentiation between “good” and “great” presentations) and conflict resolution skills (i.e. ability to resolve conflicts in a group setting).  These skills will make MI students more marketable in the workplace.  
 
 
