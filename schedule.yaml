@@ -183,14 +183,17 @@
 
 - week : 4
 
-    - date : Monday, July 22
+    - date : Wednesday, May 28, 2014
       title : |
-        The GNU Project
+        The GNU Project (Seminar)
       summary : |
         How did the free software movement arise in the 1980s? What is
         “copyleft”? In what sense is the free software movement a
         “movement”? How does it work? What is its ideology and why is
         it important? What is the role of non-profit foundations?
+      due: |        
+        <span class="important">Paper proposals due at the beginning
+        of class.</span>
       readings :
         - bib : |
             Chris Kelty (2008).
@@ -221,12 +224,12 @@
               url : http://www.gnu.org/licenses/gpl-faq.html
               bitly: http://bit.ly/12n8Rzb
 
-    - date : Wednesday, July 24
+- week : 5
+
+    - date : Wednesday, June 4, 2014
       title : |
-        From Linux to Open Source
-      due: |        
-        <span class="important">Paper proposals due at the beginning
-        of class.</span>
+        From Linux to Open Source (Seminar)
+
       summary : |
         How did Linux start? How was it different from GNU?
         Was it really written “just for fun”?
@@ -237,7 +240,7 @@
             Linus Torvalds and David Diamond (2001).
             Selections from
             *Just for Fun: The Story of an Accidental Revolutionary.*
-            New York: HarperBusiness. (Pp. 50–65 and 90-97).
+            New York: Harper Business. (Pp. 50–65 and 90-97).
           availability :
             - type: inforum
         - bib : |
@@ -255,16 +258,16 @@
               url : http://papers.ssrn.com/sol3/papers.cfm?abstract_id=443040
               bitly: http://bit.ly/1bwNDyi
 
-- week : 4
+- week : 6
 
   classes :
-    - date : Monday, July 29
-      title : User Innovation Networks
+    - date : Wednesday, June 11, 2014
+      title : User Innovation Networks (Lecture)
+      summary : |        
+        Can production of free software be somehow more efficient?
       due : |
         <span class="important">Proposal reviews due at the beginning
         of class.</span>
-      summary : |        
-        Can production of free software be somehow more efficient?
       readings :
         - bib : |
             Eric Raymond (1997). “The Cathedral and the Bazaar.”
@@ -295,8 +298,10 @@
               url  : http://onlinelibrary.wiley.com.myaccess.library.utoronto.ca/doi/10.1111/j.1467-9779.2010.01467.x/abstract
               bitly: http://bit.ly/11wbt7M
 
-    - date : Wednesday, July 31
-      title : Infrastructure
+- week : 7
+
+    - date : Wednesday, June 18, 2014
+      title : Infrastructure (Seminar)
       summary : |        
         But how do free / open source software projects actually get anything done?
         What tools do they use?
@@ -323,16 +328,15 @@
               url  : http://www.youtube.com/watch?v=4XpnKHJAok8
               bitly: http://bit.ly/12GCkW8
 
-- week : 5
-  classes :
- 
-    - date : Monday, August 5
-      no_class : Civic Holiday
-  
-    - date : Wednesday, August 7
-      title : Open Source and Open Source 2.0
+- week : 8
+
+    - date : Wednesday, June 25, 2014
+      title : Open Source and Open Source 2.0 (Seminar)
       summary : |
         Has open source gone corporate? If so, what are the implications?
+      due : |
+        <span class="important">Critique of BitBucket or GitHub due at the beginning
+        of class.</span>
       readings :
         - bib : |
             Eric Raymond (1999). “The Revenge of the Hackers.” In
@@ -369,7 +373,7 @@
               url  : http://www.linuxfoundation.org/publications/whowriteslinux.pdf
               bitly: http://bit.ly/13DHFc5
 
-- week : 6
+- week : 9
 
   classes :  
     - date : Monday, August 12
